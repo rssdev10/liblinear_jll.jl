@@ -1,0 +1,143 @@
+[[liblinear]]
+arch = "aarch64"
+git-tree-sha1 = "a21a896188a5cd4bcf161632542a39d6fb46fb16"
+os = "macos"
+
+    [[liblinear.download]]
+    sha256 = "96b65de1988d42d1288cf4d2485977d53a433101a2c69b8b80fc5b67e27a97ee"
+    url = "https://github.com/rssdev10/liblinear_jll.jl/releases/download/liblinear-v2.45.0+0/liblinear.v2.45.0.aarch64-apple-darwin.tar.gz"
+[[liblinear]]
+arch = "aarch64"
+git-tree-sha1 = "6661d311ce8de5b8653d5add8bdf7079a2496fa4"
+libc = "glibc"
+os = "linux"
+
+    [[liblinear.download]]
+    sha256 = "e1e67574f50ee7848372787d9af1dd72bcd5d32bf6cc6d72b531b075900f7e7d"
+    url = "https://github.com/rssdev10/liblinear_jll.jl/releases/download/liblinear-v2.45.0+0/liblinear.v2.45.0.aarch64-linux-gnu.tar.gz"
+[[liblinear]]
+arch = "aarch64"
+git-tree-sha1 = "bee1d91588c508ef46f2d51a047259279705954a"
+libc = "musl"
+os = "linux"
+
+    [[liblinear.download]]
+    sha256 = "cebfebbb4931e733673725c34eab4ae64ce64932eb0879a9b6b2f32475439b4c"
+    url = "https://github.com/rssdev10/liblinear_jll.jl/releases/download/liblinear-v2.45.0+0/liblinear.v2.45.0.aarch64-linux-musl.tar.gz"
+[[liblinear]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "bc9f5ad7dceee679b2077777cfb79442f9915870"
+libc = "glibc"
+os = "linux"
+
+    [[liblinear.download]]
+    sha256 = "ae3987670020e0f7caaa8f53a63072e06466bd3e9d90100d13b45c14293d274a"
+    url = "https://github.com/rssdev10/liblinear_jll.jl/releases/download/liblinear-v2.45.0+0/liblinear.v2.45.0.armv6l-linux-gnueabihf.tar.gz"
+[[liblinear]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "a601321ee359706e520aa74c1b9bfd0bc59a1011"
+libc = "musl"
+os = "linux"
+
+    [[liblinear.download]]
+    sha256 = "51cc67e3246d64c643aa0fb57cc661acc52c9c68d39366f911c5281784adbd41"
+    url = "https://github.com/rssdev10/liblinear_jll.jl/releases/download/liblinear-v2.45.0+0/liblinear.v2.45.0.armv6l-linux-musleabihf.tar.gz"
+[[liblinear]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "cdddf283ca45d6e00d789c71f332717c7afa6dde"
+libc = "glibc"
+os = "linux"
+
+    [[liblinear.download]]
+    sha256 = "ab97226db0b15dbc7963a1a619ceaa6a2658b76fd100d0d5f368a4f4e891d348"
+    url = "https://github.com/rssdev10/liblinear_jll.jl/releases/download/liblinear-v2.45.0+0/liblinear.v2.45.0.armv7l-linux-gnueabihf.tar.gz"
+[[liblinear]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "00ac4bed45a80f4183fb92e751241125d7a84b9e"
+libc = "musl"
+os = "linux"
+
+    [[liblinear.download]]
+    sha256 = "f4ca94adb89a51ae511a65d7237297de406f549eaeeb0685dc3722a70a288c66"
+    url = "https://github.com/rssdev10/liblinear_jll.jl/releases/download/liblinear-v2.45.0+0/liblinear.v2.45.0.armv7l-linux-musleabihf.tar.gz"
+[[liblinear]]
+arch = "i686"
+git-tree-sha1 = "61f8d2e7f33c1476345725168d5a9ea5a2e88cba"
+libc = "glibc"
+os = "linux"
+
+    [[liblinear.download]]
+    sha256 = "601b4763e3129124ddeb96f05dd7e51c0710fe58e8c00ba0c0627f82d4d48821"
+    url = "https://github.com/rssdev10/liblinear_jll.jl/releases/download/liblinear-v2.45.0+0/liblinear.v2.45.0.i686-linux-gnu.tar.gz"
+[[liblinear]]
+arch = "i686"
+git-tree-sha1 = "6d9ad393571b85021edccedfadc6fbe380f2b292"
+libc = "musl"
+os = "linux"
+
+    [[liblinear.download]]
+    sha256 = "c6b789ed249faf18a1454fe185155d98bcafbff41f535bd01a1937d959030554"
+    url = "https://github.com/rssdev10/liblinear_jll.jl/releases/download/liblinear-v2.45.0+0/liblinear.v2.45.0.i686-linux-musl.tar.gz"
+[[liblinear]]
+arch = "i686"
+git-tree-sha1 = "d473a99b993b5c51e4ce160ce8d74cd27ba3d672"
+os = "windows"
+
+    [[liblinear.download]]
+    sha256 = "047b791ea4e18393d675a87241def3d58aecf19113d29d5c09c08904b28e0681"
+    url = "https://github.com/rssdev10/liblinear_jll.jl/releases/download/liblinear-v2.45.0+0/liblinear.v2.45.0.i686-w64-mingw32.tar.gz"
+[[liblinear]]
+arch = "powerpc64le"
+git-tree-sha1 = "1805176c08b35ae9d6e1a246dcca41642245f1e3"
+libc = "glibc"
+os = "linux"
+
+    [[liblinear.download]]
+    sha256 = "8effb120d3873e4e46733a90dcb39213cef258b8c2da5691f213232a14534ba3"
+    url = "https://github.com/rssdev10/liblinear_jll.jl/releases/download/liblinear-v2.45.0+0/liblinear.v2.45.0.powerpc64le-linux-gnu.tar.gz"
+[[liblinear]]
+arch = "x86_64"
+git-tree-sha1 = "478f35b098c363049dfda4c4f7e8b2d64d9f209d"
+os = "macos"
+
+    [[liblinear.download]]
+    sha256 = "1b249f2b3e47dd82edd9d653b10867928e6369026b1a8dfb5b711a30eb18fb92"
+    url = "https://github.com/rssdev10/liblinear_jll.jl/releases/download/liblinear-v2.45.0+0/liblinear.v2.45.0.x86_64-apple-darwin.tar.gz"
+[[liblinear]]
+arch = "x86_64"
+git-tree-sha1 = "c27a55dd50ee72fcc6a87661163b612be767cbf0"
+libc = "glibc"
+os = "linux"
+
+    [[liblinear.download]]
+    sha256 = "2296bdf49f1b2a6a64f552b92d17b3ff6d2e531d76209892ab8a2c506529fcc0"
+    url = "https://github.com/rssdev10/liblinear_jll.jl/releases/download/liblinear-v2.45.0+0/liblinear.v2.45.0.x86_64-linux-gnu.tar.gz"
+[[liblinear]]
+arch = "x86_64"
+git-tree-sha1 = "6d202e679efc107eabaf2bb5da08ad93869ee86e"
+libc = "musl"
+os = "linux"
+
+    [[liblinear.download]]
+    sha256 = "fe4d62c00274a941c2c063d5520adbd581085bca2255f51f4080e82ca63c9546"
+    url = "https://github.com/rssdev10/liblinear_jll.jl/releases/download/liblinear-v2.45.0+0/liblinear.v2.45.0.x86_64-linux-musl.tar.gz"
+[[liblinear]]
+arch = "x86_64"
+git-tree-sha1 = "ad128259973a7ca6669cc03d7acaada5915bf683"
+os = "freebsd"
+
+    [[liblinear.download]]
+    sha256 = "b912d5c90d309ff415d1e996aef1ea96950a90e876b45b1b1a1dffa5493b3d72"
+    url = "https://github.com/rssdev10/liblinear_jll.jl/releases/download/liblinear-v2.45.0+0/liblinear.v2.45.0.x86_64-unknown-freebsd.tar.gz"
+[[liblinear]]
+arch = "x86_64"
+git-tree-sha1 = "f4c4876d09267cd0a17b4d9c19e41079a229cab2"
+os = "windows"
+
+    [[liblinear.download]]
+    sha256 = "19c514a0d65cc314ed093f03f1f3c85667b0f789d5ab2f7ae757ac4c24f9349c"
+    url = "https://github.com/rssdev10/liblinear_jll.jl/releases/download/liblinear-v2.45.0+0/liblinear.v2.45.0.x86_64-w64-mingw32.tar.gz"
